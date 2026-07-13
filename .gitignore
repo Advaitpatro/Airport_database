@@ -1,0 +1,8 @@
+target/
+.vscode/
+.env
+*.env
+*.backup
+*.class
+src/main/java/com/airport/Main.java
+src/main/java/com/airport/config/DBSecrets.java
